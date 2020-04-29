@@ -46,7 +46,7 @@
           this._play()
         }
       }, 20)
-
+      //当窗口大小改变，重新计算
       window.addEventListener('resize', () => {
         if (!this.slider || !this.slider.enabled) {
           return

@@ -12,7 +12,7 @@ module.exports = {
     proxyTable: {},
 
     // Various Dev Server settings
-    host: '10.68.187.108', // can be overwritten by process.env.HOST
+    host: 'test.ceair.com', // can be overwritten by process.env.HOST
     port: 8080, // can be overwritten by process.env.HOST, if port is in use, a free one will be determined
     autoOpenBrowser: false,
     errorOverlay: true,
